@@ -3,9 +3,9 @@ Création d'une application web pour gérer une BDD (CRUD) à l'aide de JEE et M
 
 J'ai intégré une page de connexion qui vérifie les identifiants de l'utilisateur et bloque l'accès en affichant un message si les identifiants sont incorrects.
 
-J'ai implémneté un affichage automatique des rubriques de la base de données au moment du lancement de l'application.
+Pour certains j'ai appliqué des restrictions sur le nomnbre de caractères saisies (gestion d'exceptions).
 
-Pour tous les champs de saisie obligatoire j'ai ajouté une condition afin d'afficher un message pour que l'utilisatuer complète tous les champs.
+Pour tous les champs de saisie obligatoire j'ai ajouté une condition afin d'afficher un message pour que l'utilisateur complète tous les champs.
 
 J'ai ajouté la possiblité de faire une recherche en sélectionnant que les hommes ou les femmes pour l'onglet joueur.
 
